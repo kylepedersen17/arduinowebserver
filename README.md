@@ -1,3 +1,3 @@
 # arduinowebserver
 
-An arduino web server that reads from a web API and uses a built-in speaker to read the received data out loud.
+An arduino web server that reads from a web API and uses its attached speaker to read out loud the received API data.
